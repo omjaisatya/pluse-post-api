@@ -1,4 +1,4 @@
-# Pulse Post Api
+# Pluse Post Api
 
 This project is a RESTful API for managing posts with file uploads, CRUD Post, built using Node.js, Express.js, MongoDB, Mongoose, and AWS S3.
 
